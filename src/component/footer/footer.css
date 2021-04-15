@@ -1,0 +1,22 @@
+.footer{
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    text-align: center ;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+.icons {
+    display: flex;
+    justify-content: space-evenly;
+    width: 30%;
+}
+.pp{
+    display: flex;
+    width: 70%;
+    text-align: center;
+}
+.pp p{
+    width: 100%;
+}

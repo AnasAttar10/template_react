@@ -1,0 +1,23 @@
+.about{
+    background-image: url('./img7.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color:white ; 
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    
+}
+.my_information{
+    width:30%;
+    text-align: center;
+}
+h2{
+    padding: 10px ;
+}
+.my_information p{
+    color: #444;
+}

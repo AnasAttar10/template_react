@@ -1,0 +1,128 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/images/img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "/images/img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "/images/img3.png"
+        },
+        {
+            "id":4,
+            "image": "/images/img9.jpg"
+        },
+        {
+            "id":5,
+            "image": "/images/img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "/images/img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "/images/img7.jpg"
+        },
+        {
+            "id":8,
+            "image": "/images/img8.jpg"
+        }
+    ] ,
+    "profile" : [
+        {
+            "id":1 , 
+            "name":"anas attar",
+            "age":24,
+            "phone":"000 111 123",
+            "email":"anas@anas.com",
+            "city":"qalqilia",
+            "bootstrap":22,
+            "java":70,
+            "html":90,
+            "css":44
+        },
+        {
+            "id":2 , 
+            "name":"osed attar",
+            "age":21,
+            "phone":"222 444 345",
+            "email":"osed@osed.com",
+            "city":"nablus",
+            "bootstrap":90,
+            "java":10,
+            "html":30,
+            "css":70
+        },
+        {
+            "id":3 , 
+            "name":"amjad attar",
+            "age":27,
+            "phone":"333 555 789",
+            "email":"amjad@amjad.com",
+            "city":"ramallah",
+            "bootstrap":88,
+            "java":20,
+            "html":40,
+            "css":70
+        },
+        {
+            "id":4 , 
+            "name":"rafat attar",
+            "age":18,
+            "phone":"999 777 987",
+            "email":"rafat@rafat.com",
+            "city":"Jenin",
+            "bootstrap":20,
+            "java":60,
+            "html":80,
+            "css":100
+        }
+
+    ],
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] 
+}

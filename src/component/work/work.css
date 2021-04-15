@@ -1,0 +1,30 @@
+.work h1{
+    margin: 80px 0;
+}
+.container_boxs{
+    display: flex;
+    direction: row;
+    justify-content: space-evenly;
+}
+.general_information{
+    border: 2px solid #888;
+    margin: 10px; 
+    width: 40%; 
+    height: 400px;  
+    text-align: center;
+}
+.general_information i{
+    padding: 10px;
+    margin: 50px 0;  
+}
+.general_information hr{
+    width: 60%;
+    margin: auto;
+}
+.general_information h4{
+    color: orangered;
+}
+.general_information p{
+    color: #5e5e5e;
+    margin-top: 15px;
+}

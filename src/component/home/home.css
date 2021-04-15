@@ -1,0 +1,28 @@
+.home {
+    text-align: center;
+    color: green;
+    background-color: #f8f8f8;
+}
+
+.home h2{
+    color: #5e5e5e;
+    padding: 30px;
+    font-size: 5vw;
+}
+.home h4{
+    color: orangered;
+    font-size: 2vw;
+    padding: 10px;
+}
+.home p{
+    color:#888;
+    text-transform: capitalize;
+    font-size: 1.3vw;
+}
+.home button{
+    background-color: orangered;
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+    font-size: 1.3vw;
+}

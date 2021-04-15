@@ -1,0 +1,41 @@
+.contact{
+    text-align: center;
+    padding: 60px;
+    background-color: #f8f8f8;
+    color: orangered;
+}
+.contact_in{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+
+}
+.contact form{
+    width: 60%;
+    font-size: 1.3vw;
+}
+.contact form input{
+    width: 48%;
+    margin: 1% 1% 0;
+    padding: 5px;
+    border: 2px solid orangered;
+}
+.contact form input:nth-child(3){
+    width: 98%;
+    margin: 1% 1%;
+}
+form textarea {
+    margin: 0 1% 1%;
+    width: 98%;
+    height: 200px;
+    border: 2px solid orangered;
+}
+form button{
+    padding: 10px;
+    background-color: orangered;
+    color: white;
+    width: 100px;
+}

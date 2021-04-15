@@ -1,0 +1,41 @@
+.nav {
+    display: flex;
+    direction: row; 
+    justify-content: space-between;
+    padding: 10px;
+    
+}
+.nav1{
+    border-bottom: 2px solid black;
+}
+.nav span {
+    width: 50%;
+    font-size: 2.7vw;
+    padding: 10px;
+}
+ul{
+    list-style: none; 
+    display: flex;
+    direction: row;
+    justify-content: flex-end;
+    width: 50%;
+}
+ul li{
+    margin: 0 ;
+    margin-right: 10px;
+    font-size: 1.5vw;
+    line-height: 2.5;
+    padding: 10px;
+}
+
+
+li a ,span a{
+    color: black;
+}
+li a:hover ,span a:hover{
+    color: orangered;
+    text-decoration: none;
+}
+a.active{
+    color: orangered;
+}
